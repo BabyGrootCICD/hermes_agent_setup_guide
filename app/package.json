@@ -63,6 +63,7 @@
     "@xmldom/xmldom": "^0.9.12",
     "brace-expansion": "^2.1.7",
     "ip-address": "^10.7.4",
-    "js-yaml": "^4.3.2"
+    "js-yaml": "^4.3.2",
+    "app-builder-lib": "^26.15.0"
   }
 }
