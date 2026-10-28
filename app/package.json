@@ -57,5 +57,8 @@
       "node_modules/node-pty/build/Release/**",
       "!dist"
     ]
+  },
+  "overrides": {
+    "tar": "^7.5.21"
   }
 }
