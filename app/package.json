@@ -67,6 +67,7 @@
     "app-builder-lib": "^26.15.0",
     "builder-util-runtime": "^9.7.0",
     "form-data": "^4.0.6",
-    "tmp": "^0.2.6"
+    "tmp": "^0.2.6",
+    "@tootallnate/once": "^2.0.1"
   }
 }
