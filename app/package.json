@@ -65,6 +65,7 @@
     "ip-address": "^10.7.4",
     "js-yaml": "^4.3.2",
     "app-builder-lib": "^26.15.0",
-    "builder-util-runtime": "^9.7.0"
+    "builder-util-runtime": "^9.7.0",
+    "form-data": "^4.0.6"
   }
 }
