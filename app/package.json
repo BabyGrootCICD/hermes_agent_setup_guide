@@ -68,6 +68,7 @@
     "builder-util-runtime": "^9.7.0",
     "form-data": "^4.0.6",
     "tmp": "^0.2.6",
-    "@tootallnate/once": "^2.0.1"
+    "@tootallnate/once": "^2.0.1",
+    "glob": "^14.0.2"
   }
 }
